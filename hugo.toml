@@ -1,4 +1,3 @@
-baseURL = 'https://sartems.github.io/'
+baseURL = 'https://sartems.github.io'
 languageCode = 'ru'
 title = 'Portfolio'
-publishDir = 'docs'

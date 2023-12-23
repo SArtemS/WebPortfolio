@@ -3,24 +3,24 @@ title = 'Лабораторная работа №2'
 +++
 
 # PDF-файл отчёта по работе
-{{<button-dw text="PDF-файл" link="/lab2/Щербинин_Артем_Владимирович_Практическая_работа_2.pdf">}}
+{{<button-dw text="PDF-файл" link="lab2/Щербинин_Артем_Владимирович_Практическая_работа_2.pdf">}}
 
 # Результаты выполнения программы
 
 ### Меню программы (можно выбрать задание, нажав на соответствующую цифру):
-![Zero](/lab2/task0.png)
+![Zero](lab2/task0.png)
 ### Середины отрезков:
-![First](/lab2/task1.png)
+![First](lab2/task1.png)
 ### Параллельные линии:
-![Second](/lab2/task2.png)
+![Second](lab2/task2.png)
 ### Пересекающиеся линии:
-![Third](/lab2/task3.png)
+![Third](lab2/task3.png)
 ### Вращение:
-![Fourth](/lab2/task4.png)
+![Fourth](lab2/task4.png)
 ### Отражение:
-![Fifth](/lab2/task5.png)
+![Fifth](lab2/task5.png)
 ### Масштабирование:
-![Sixth](/lab2/task6.png)
+![Sixth](lab2/task6.png)
 
 # Код программы
 {{<highlight-content main.py python>}}

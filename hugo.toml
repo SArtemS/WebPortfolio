@@ -2,4 +2,3 @@ baseURL = 'https://sartems.github.io/'
 languageCode = 'ru'
 title = 'Portfolio'
 publishDir = 'docs'
-relativeURLs = true

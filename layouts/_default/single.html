@@ -1,0 +1,10 @@
+{{ define "main" }}
+    {{ with .Page }}
+        <div class="hpage">
+            <div class="hbox">
+                {{.Title}}
+            </div>
+        </div>
+        {{.Content}}
+    {{ end }}
+{{ end }}

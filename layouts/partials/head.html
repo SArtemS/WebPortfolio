@@ -1,0 +1,19 @@
+{{ with .Page }}
+    <head>
+
+        {{ if eq .Title "main" }}
+            <title>Главная</title>
+        {{ else if eq .Title "Лабораторная работа №1" }}
+            <title>Лабораторная работа №1</title>
+        {{ else if eq .Title "Лабораторная работа №2" }}
+            <title>Лабораторная работа №2</title>
+        {{ else if eq .Title "Лабораторная работа №3" }}
+            <title>Лабораторная работа №3</title>
+        {{ else if eq .Title "Лабораторная работа №4" }}
+            <title>Лабораторная работа №4</title>
+        {{ end }}
+        
+        <link href={{"/css/styles.css" | absURL }} type="text/css"rel="stylesheet" />
+
+    </head>
+{{ end }}

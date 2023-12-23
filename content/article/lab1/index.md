@@ -3,18 +3,18 @@ title = 'Лабораторная работа №1'
 +++
 
 # PDF-файл отчёта по работе
-{{<button-dw text="PDF-файл" link="lab1/Щербинин_Артем_Владимирович_Практическая_работа_1.pdf">}}
+{{<button-dw text="PDF-файл" link="/WebPortfolio/lab1/Щербинин_Артем_Владимирович_Практическая_работа_1.pdf">}}
 
 # Результаты выполнения программы
 
 ### Матричное преобразование координат:
-![First](lab1/task1.png)
+![First](/WebPortfolio/lab1/task1.png)
 ### Прорисовка графических примитивов:
-![Second](lab1/task2.png)
+![Second](/WebPortfolio/lab1/task2.png)
 ### Прорисовка небольших окружностей с матричным преобразованием координат: 
-![Third](lab1/task3.png)
+![Third](/WebPortfolio/lab1/task3.png)
 ### Прорисовка линий с матричным преобразованием координат:
-![Fourth](lab1/task4.png)
+![Fourth](/WebPortfolio/lab1/task4.png)
 
 # Код программы
 {{<highlight-content main.py python>}}
